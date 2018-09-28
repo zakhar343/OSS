@@ -1,0 +1,12 @@
+.:
+total 8
+drw-rw-rw-. 2 zakhar343 zakhar343  22 Sep 28 11:47 dir
+--wxrwx-wx. 1 root      zakhar343   5 Sep 28 11:44 file
+-rw-------. 1 zakhar343 zakhar343   0 Sep 28 12:01 file1
+-rw-rw-rw-. 1 zakhar343 zakhar343   0 Sep 28 12:01 file2
+-rw-rw-rw-. 1 zakhar343 zakhar343 979 Sep 28 12:09 history2.txt
+-rw-rw-rw-. 1 zakhar343 zakhar343   0 Sep 28 12:09 ls.txt
+
+./dir:
+total 0
+-????????? ? ? ? ?            ? new_file
